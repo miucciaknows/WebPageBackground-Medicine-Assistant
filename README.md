@@ -1,3 +1,3 @@
 # Medicine Assistant OnlyWebPage
 
-This is only a simple page in react.js
+This is just a simple page built with react.js to use as a background.
